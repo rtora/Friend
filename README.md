@@ -2,7 +2,7 @@
 A Recreation of the World Using Generative Adversarial Networks
 ## Requirements
 1. Install OpenCV on computer
-2. Install tensorflow and related packages
+2. Install tensorflow and Tensorflow_datasets packages
 ## How to run  
 1. Train model by running all cells in notebook to completion
 2. Open terminal

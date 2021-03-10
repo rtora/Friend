@@ -1,5 +1,5 @@
-# [Through-the-Eyes-of-the-Computer](https://class.arts.ucsb.edu/art185/Sites/w21/romtin/final.html)
-A Recreation of the World Using Generative Adversarial Networks
+# [Friend](https://class.arts.ucsb.edu/art185/Sites/w21/romtin/final.html)
+Reimagining the Relationship Between Man and AI
 ## Requirements
 1. Install OpenCV on computer
 2. Install tensorflow and Tensorflow_datasets packages

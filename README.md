@@ -1,5 +1,6 @@
 # [Friend](https://class.arts.ucsb.edu/art185/Sites/w21/romtin/final.html)
-Reimagining the Relationship Between Man and AI
+Reimagining the Relationship Between Man and AI  
+Please click on "Friend" to see the project  
 ## Requirements
 1. Install OpenCV on computer
 2. Install tensorflow and Tensorflow_datasets packages
